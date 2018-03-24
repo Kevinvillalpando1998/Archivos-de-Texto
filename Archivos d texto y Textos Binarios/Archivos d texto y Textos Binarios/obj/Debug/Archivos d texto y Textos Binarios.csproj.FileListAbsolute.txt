@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\obj\Debug\Archivos d texto y Textos Binarios.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\obj\Debug\Archivos_d_texto_y_Textos_Binarios.Form1.resources
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\obj\Debug\Archivos_d_texto_y_Textos_Binarios.Properties.Resources.resources
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\obj\Debug\Archivos d texto y Textos Binarios.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\obj\Debug\Archivos d texto y Textos Binarios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\bin\Debug\Archivos d texto y Textos Binarios.exe.config
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\bin\Debug\Archivos d texto y Textos Binarios.exe
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\bin\Debug\Archivos d texto y Textos Binarios.pdb
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\obj\Debug\Archivos d texto y Textos Binarios.exe
+C:\Users\DELL\Documents\tareas 4 semestre\Archivos d texto y Textos Binarios\Archivos d texto y Textos Binarios\obj\Debug\Archivos d texto y Textos Binarios.pdb
